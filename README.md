@@ -61,10 +61,3 @@
 ## 🌐 Webcita
 
 🔗 https://rauuuu-web.netlify.app/
-
----
-<i></i>
-
-<p align="center">
-  <i>💡 "Codear es como un chiste. Cuando tienes que explicarlo, todo está mal." - LOL</i>
-</p>
