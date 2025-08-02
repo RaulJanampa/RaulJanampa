@@ -58,9 +58,9 @@
   👾 <strong>Discord:</strong> raulitomasnaki
 </p>
 
-## 🌐 Portfolio & Projects
+## 🌐 Webcita
 
-🔗 **[Visit My Portfolio](# "Coming Soon!")** - Complete CV, projects (I'm starting jeje) and technical blog
+🔗 https://rauuuu-web.netlify.app/
 
 ---
 <i></i>
