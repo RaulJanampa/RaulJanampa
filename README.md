@@ -9,7 +9,6 @@
 - 👨‍💻 I'm **Raúl**, a **Computer Science** student at **UTEC**. Currently in my second year of university.
 - 🚀 Interested in **frontend & backend development** and learning new technologies.
 - 🌱 Currently learning more about **Spring Boot** and realizing a project called "FlowIn".
-- 🎯 Goal: Analyze which branch of computer science to specialize in.
 
 ## 💻 Tech Stack
 
@@ -34,31 +33,4 @@
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 🎮 When I'm Not Coding
-
-- 🕹️ Gaming: **Valorant**, **Phasmophobia**, **Roblox** and **more** jj
-- 🎵 Music lover. I love u, **Posty**
-- 💬 Always open to connect and make new friends :D
-
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/raulitomasnakii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://open.spotify.com/user/21264ljblndrl7wgncgmezy5y?si=ff183ad601094967">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
-
-<p align="center">
-  👾 <strong>Discord:</strong> raulitomasnaki
-</p>
-
-## 🌐 Webcita
-
-🔗 https://rauuuu-web.netlify.app/
+🌐 https://rauuuu-web.netlify.app/
