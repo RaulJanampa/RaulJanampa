@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=5A9EF4&center=true&vCenter=true&width=435&lines=I'm+Raúl+:);I'm+19+years;Computer+Science+Student+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-## 🧠 About Me
-
-- 👨‍💻 I'm **Raúl**, a **Computer Science** student at **UTEC**. Currently in my third year of university.
-- 🚀 Interested in **frontend & backend development** and learning new technologies.
-- 🌱 Currently learning more about **Spring Boot** and realizing a project called "FlowIn".
-
 ## 💻 Tech Stack
 
 **Languages:**
@@ -32,5 +26,3 @@
 
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-🌐 https://rauuuu-web.netlify.app/
