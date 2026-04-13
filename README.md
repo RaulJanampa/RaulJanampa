@@ -1,7 +1,7 @@
 # 🐣 Hello World! I'm Raul:D
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=5A9EF4&center=true&vCenter=true&width=435&lines=I'm+Raúl+:);I'm+19+years;Computer+Science+Student+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=5A9EF4&center=true&vCenter=true&width=435&lines=I'm+Raúl+:);Computer+Science+Student+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ## 💻 Tech Stack
